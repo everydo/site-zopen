@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/gif", 
+        "contenttype": "Image", 
+        "id": "logo.gif"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "", 
+        "modified": "2005-07-05 01:20:00", 
+        "title": "logo.gif"
+    }
+}

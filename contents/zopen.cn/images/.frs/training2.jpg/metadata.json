@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/jpeg", 
+        "contenttype": "Image", 
+        "id": "training2.jpg"
+    }, 
+    "dublin": {
+        "creators": [
+            "heqiang"
+        ], 
+        "description": "", 
+        "modified": "2006-07-24 10:46:14", 
+        "title": "training"
+    }
+}

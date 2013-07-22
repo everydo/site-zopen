@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/jpeg", 
+        "contenttype": "Image", 
+        "id": "training.jpg"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-11-28 00:13:08", 
+        "title": "training.jpg"
+    }
+}

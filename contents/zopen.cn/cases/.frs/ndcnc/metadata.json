@@ -1,0 +1,19 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "ndcnc",
+        "hidden_keys":[
+              "indexcol.rst",
+              "img",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "文化共享", 
+        "modified": "2006-07-21 07:52:07", 
+        "title": "文化部"
+    }
+}

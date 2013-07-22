@@ -1,0 +1,6 @@
+description: ''
+exclude: [indexcol.rst, img, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: 南海发展

@@ -1,0 +1,19 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "ecm",
+        "hidden_keys":[
+              "img",
+              "index.rst",
+              "flashes"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司针对企业内部网应用的需求，在Windows平台上的基于Plone定制开发的一个即装即用的企业内容管理服务器软件。ZOpen ECM是润普企业解决方案的基础平台。", 
+        "modified": "2008-01-20 23:55:05", 
+        "title": "ZOpen ECM：企业内容管理平台"
+    }
+}

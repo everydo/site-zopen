@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/gif", 
+        "contenttype": "Image", 
+        "id": "shtel-logo.gif"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "上海电信logo", 
+        "modified": "2006-07-21 12:12:53", 
+        "title": "上海电信logo"
+    }
+}

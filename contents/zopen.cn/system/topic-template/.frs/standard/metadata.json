@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "standard"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-07-10 03:49:18", 
+        "title": "标准知识专题模板"
+    }
+}

@@ -1,0 +1,25 @@
+.. raw:: html
+
+   <p>经过8个月的开发，根据社区的反馈， <a class="reference" href="http://zopen.cn">润普公司</a> 宣布CMFContentPanels 2.4版本正式发布</p>
+	<p><strong>主要改动：</strong></p>
+	<ul class="simple">
+	<li>采用Plone 2.1的Portlet结构</li>
+	<li>图片新闻面板可支持多个新闻。</li>
+	<li>CMFContentPanels 和 LinguaPlone 完全兼容.</li>
+	<li>新的面板视图：<ul>
+	<li>ZPT macro: 直接显示某个ZPT宏</li>
+	<li>Inline frame: 内嵌帧</li>
+	</ul>
+	</li>
+	<li>为文件夹添加了“内容面板视图”，使用预先定义的布局模版来显示</li>
+	<li>使用javascript 让 RSS 对用户更友好</li>
+	<li>大量的故障修补</li>
+	</ul>
+	<p><strong>相关链接:</strong></p>
+	<ul class="simple">
+	<li><a class="reference" href="http://plone.org/products/cmfcontentpanels/releases/2.4/contentpanels-2_4.tgz">下载</a></li>
+	<li><a class="reference" href="http://plone.org/products/cmfcontentpanels">英文产品主页</a></li>
+	<li><a class="reference" href="http://zopen.cn/products/open/CMFContentPanels">中文产品主页</a></li>
+	</ul>
+	<p><strong>鸣谢：</strong></p>
+	<p>本版本的大量改进是在 <a class="reference" href="http://corp.163.com">网易公司</a> 项目实施过程完善的，在此对网易公司表示感谢！</p>

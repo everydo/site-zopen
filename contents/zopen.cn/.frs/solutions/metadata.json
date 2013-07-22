@@ -1,0 +1,30 @@
+{
+    "main": {
+        "left_col":".. include:: indexcol.rst",
+        "contenttype": "Folder", 
+        "id": "solutions",
+        "hidden_keys":[
+              "img",
+              "zopen-solution",
+              "portal",
+              "custom-service",
+              "index.rst",
+              "indexcol.rst"
+        ],
+        "keys":[
+              "ekp",
+              "project",
+              "edm",
+              "intranet"
+        ]
+
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "我们提供内容管理相关的解决方案", 
+        "modified": "2006-10-08 22:14:36", 
+        "title": "解决方案"
+    }
+}

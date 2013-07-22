@@ -1,0 +1,70 @@
+.. raw:: html
+
+	<div>
+
+	<!--h1>请登录</h1-->
+
+	<p>要访问网站的这部分内容，您需要输入您的用户名和密码。</p>
+
+
+
+	<p>如果您忘记了您的密码，<a href="mail_password_form?userid=">点击这里获取它</a>。</p>
+
+	<div id="enable_cookies_message" class="portalMessage" style="display: none;">Cookies没有开启。您必须在您登录前<a href="enabling_cookies">开启cookies</a>。</div>
+
+
+
+	<form method="post" id="login_form" action="http://zopen.cn/login_form">
+
+    <fieldset>
+
+        <legend>帐号详细信息</legend>
+
+        <input name="came_from" value="http://zopen.cn/contact-info" type="hidden">
+
+        <input name="form.submitted" value="1" type="hidden">
+
+        <input name="js_enabled" id="js_enabled" value="0" type="hidden">
+        <input name="cookies_enabled" id="cookies_enabled" value="" type="hidden">
+        <input name="login_name" id="login_name" value="" type="hidden">
+        <input name="pwd_empty" id="pwd_empty" value="0" type="hidden">
+
+        <div class="field">
+
+            <label for="__ac_name">登录名</label>
+
+            <div class="formHelp">用户名是大小写敏感的，请确认键盘大写锁没有开启。</div>
+
+            <div></div>
+
+            <input size="15" tabindex="0" name="__ac_name" value="" id="__ac_name" type="text">
+
+    </div>
+
+    <div class="field">
+
+            <label for="__ac_password">密码</label>
+
+            <div class="formHelp">
+                <div>大小写敏感，请确认大写键没有开启。</div>
+            </div>
+
+            <div></div>
+
+            <input size="15" name="__ac_password" id="__ac_password" type="password">
+    </div>
+
+        
+
+        <div class="formControls">
+
+            <input class="context" name="submit" value="登录" onclick="javascript:return setLoginVars('__ac_name','login_name','__ac_password','pwd_empty','js_enabled','cookies_enabled')" type="submit">
+
+        </div>
+
+        <p>完成后，请注意登出或者退出您的浏览器。</p>
+
+    </fieldset>
+
+	</form>
+	</div>

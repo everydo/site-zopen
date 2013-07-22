@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "site-news"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "由系统管理员发布的网站新闻", 
+        "modified": "2006-07-10 03:49:19", 
+        "title": "网站新闻"
+    }
+}

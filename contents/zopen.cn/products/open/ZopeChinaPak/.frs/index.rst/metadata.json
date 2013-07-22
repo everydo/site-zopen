@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "Zope和Plone的\"标准\"中文支持包，即装即用。", 
+        "modified": "2006-10-23 20:15:05", 
+        "title": "ZopeChinaPak：Zope/Plone中文支持包"
+    }
+}

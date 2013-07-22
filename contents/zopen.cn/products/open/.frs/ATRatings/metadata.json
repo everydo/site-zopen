@@ -1,0 +1,19 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "ATRatings",
+        "hidden_keys":[
+              "img",
+              "rating-zh.png",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "投票和计数器：ATRatings为基于Archetypes的产品提供投票的功能，ATRatings底层接口由Geoff Davis创建，润普公司对该产品进行维护并完成了产品的使用界面。", 
+        "modified": "2006-07-27 20:07:11", 
+        "title": "ATRatings: 投票和计数器引擎"
+    }
+}

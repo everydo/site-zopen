@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "ZOpen ECM是润普企业内容管理解决方案的基础平台，用于构建内部网、知识管理、文档管理等解决方案。", 
+        "modified": "2006-12-29 22:08:38", 
+        "title": "ZOpen ECM：企业内容管理平台"
+    }
+}

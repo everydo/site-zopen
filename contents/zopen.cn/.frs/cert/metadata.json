@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "cert"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "", 
+        "modified": "2006-02-20 04:53:38", 
+        "title": "电子证书"
+    }
+}

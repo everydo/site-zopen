@@ -1,0 +1,16 @@
+{
+    "main": {
+       "left_col":".. include:: indexcol.rst",
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "在中文内容管理领域，我们为企业提供优秀的产品和专业的解决方案。", 
+        "modified": "2008-01-23 20:23:20", 
+        "title": "首页"
+    }
+}

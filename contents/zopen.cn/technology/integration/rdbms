@@ -1,0 +1,24 @@
+PostgreSql
+======================
+.. image:: img/rdbms-postgresql.gif
+   :class: image-right
+   :target: http://postgresql.org
+
+PostgreSql是最优秀的开放源代码数据库系统，功能强大，支持存储过程和触发器，支持事务处理，支持海量的数据。符合标准的查询语言，开放的接口，广泛的支持。
+
+对于企业应用，润普推荐客户采用 PostgreSql 数据库。
+
+Sqlite
+==============
+.. image:: img/rdbms-sqlite.gif
+   :class: image-right
+   :target: http://sqlite.org
+   :width: 150
+
+Sqlite是一个小巧、高性能、跨平台、功能强大的嵌入式关系数据库。Sqlite和Zope/Plone能够很好的集成。
+
+对于小型的应用，我们选择 Sqlite。
+
+其他的关系数据库
+===================
+润普支持和大部分的关系数据库系统进行集成，包括Oracle 、 MS SQL Server 、Mysql等。

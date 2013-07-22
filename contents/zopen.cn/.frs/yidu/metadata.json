@@ -1,0 +1,15 @@
+{
+    "main": {
+        "left_col":".. include:: indexcol.rst",
+        "contenttype": "Folder", 
+        "id": "yidu"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2008-01-23 00:16:08", 
+        "title": "易度"
+    }
+}

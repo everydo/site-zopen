@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "图形化的方法显示Plone的工作流", 
+        "modified": "2006-02-21 11:54:52", 
+        "title": "DCWorkflowGraph：Plone工作流图形化展示"
+    }
+}

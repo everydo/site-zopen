@@ -1,0 +1,16 @@
+{
+    "main": {
+       "left_col":".. include:: indexcol.rst",
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "login_form"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "", 
+        "modified": "2008-01-23 20:23:20", 
+        "title": "登录"
+    }
+}

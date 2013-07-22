@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "zopen-cn-logo"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "logo说明： Z-Open, 提供Zope开源技术的服务", 
+        "modified": "2006-07-10 09:07:23", 
+        "title": "zopen.cn logo"
+    }
+}

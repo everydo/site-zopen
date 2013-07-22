@@ -1,0 +1,19 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "ExternalEditor-zh",
+        "hidden_keys":[
+              "img",
+              "externaleditor-install.png",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "中文版Zope外部编辑器客户端: 汉化的外部编辑器客户端windows安装程序，完全支持中文文件名。", 
+        "modified": "2006-07-27 20:07:10", 
+        "title": "外部编辑器中文补丁版"
+    }
+}

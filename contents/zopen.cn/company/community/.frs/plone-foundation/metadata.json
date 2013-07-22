@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "plone-foundation"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司是Plone基金会的成员之一。做为zope/plone技术社区的一员，润普努力参与核心产品的开发，与全世界的其他商业公司一起打造我们的赖以生存的共同基石。", 
+        "modified": "2005-03-24 05:57:32", 
+        "title": "Plone基金会"
+    }
+}

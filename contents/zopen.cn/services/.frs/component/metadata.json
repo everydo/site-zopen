@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "component"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "您是否需要为Plone定制开发新的组件？请和我们联系。利用我们的丰富Plone开发经验，我们为您提供有单元测试驱动的、可维护的、完全支持中文的、支持Plone后续版本的Plone产品组件。", 
+        "modified": "2005-03-22 20:58:40", 
+        "title": "Plone扩展组件开发"
+    }
+}

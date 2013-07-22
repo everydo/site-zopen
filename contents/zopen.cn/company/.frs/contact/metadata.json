@@ -1,0 +1,20 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "contact",
+        "hidden_keys":[
+              "img",
+              "indexcol.rst",
+              "index.rst",
+              "baocheng.png"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "", 
+        "modified": "2005-03-19 02:50:20", 
+        "title": "联系我们"
+    }
+}

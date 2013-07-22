@@ -1,0 +1,19 @@
+.. raw:: html
+
+   <p>新版本的网站采用软件平台是：</p>
+	<ul class="simple">
+	<li>Plone2.1(cvs version)</li>
+	<li>Zope 2.7</li>
+	<li>LingualPlone</li>
+	<li>ATContentTypes 0.2</li>
+	</ul>
+	<p>其他的改进包括：</p>
+	<ul class="simple">
+	<li>新增加 <a class="reference" href="/company/contact">留言功能</a></li>
+	<li>支持中英文双语</li>
+	<li>开辟产品区域，介绍润普公司最新的一些产品信息</li>
+	<li>改进网站外观</li>
+	</ul>
+	<p>谢谢您对润普公司的持续关注！</p>
+	<p>--</p>
+	<p>上海润普网络信息技术有限公司</p>

@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "润普公司近期完成的典型案例及国外其他成功案例", 
+        "modified": "2007-04-24 03:26:41", 
+        "title": "润普公司部分成功案例"
+    }
+}

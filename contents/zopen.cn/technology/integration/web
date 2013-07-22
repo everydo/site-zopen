@@ -1,0 +1,21 @@
+Apache
+=============
+.. image:: img/web-apache.gif
+   :class: image-right
+   :target: http://httpd.apache.org/
+   :width: 120
+
+Apache 是一个功能强大的开放源代码web服务器，Apache也是最流行的web服务器。Apache采用模块化设计，能提供安全连接(SSL)、重写(rewrite)、代理(Proxy)、缓存(Cache)、负载均衡等众多功能。
+
+Apache是润普主要推荐的web服务器软件。
+
+IIS
+==========
+.. image:: img/web-iis.png
+   :class: image-right
+   :target: http://www.iis.net
+   :width: 120
+
+IIS是微软的Windows自带的web服务器，能够提供友好的管理、配置界面，和Windows的其他软件能够很好的集成。
+
+可将ISS上的其他网站内容和Zope/Plone集成，使用相同的网络端口访问。

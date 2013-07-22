@@ -1,0 +1,15 @@
+---
+created:
+  creators:
+  - admin
+  description: 应业务发展的需要，润普广纳贤才
+  modified: '2007-10-20 22:43:16'
+  title: 润普招聘信息
+creator: admin
+description: 应业务发展的需要，润普广纳贤才
+title: 润普招聘信息
+---
+.. raw:: html
+   
+   <p>由于公司在广州业务拓展的需要，需要招聘前后台开发人员，营销经理及营销代表，市场经理及商务代表，以及财务管理部经理/出纳/会计，欢迎前来应聘。</p>
+   <p>详细参看 <a class="reference" href="http://zopen.cn/company/job">招聘信息</a></p>

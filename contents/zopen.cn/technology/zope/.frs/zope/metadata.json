@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/structured", 
+        "contenttype": "Document", 
+        "id": "zope"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "Zope是一个开放源代码的Web应用服务器，使用他您可以方便的构建内容管理、内部网、门户网站，及其他更多的定制的web应用。", 
+        "modified": "2006-07-23 22:39:02", 
+        "title": "Zope：Web应用服务器"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "vcs"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "版本管理系统可进行完善的版本管理功能，是对Plone内容管理的一个补充。", 
+        "modified": "2006-07-24 03:20:23", 
+        "title": "版本管理系统"
+    }
+}

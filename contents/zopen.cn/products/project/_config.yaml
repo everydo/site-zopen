@@ -1,0 +1,6 @@
+description: 集中归档项目各种信息、文档、资料，以门户的形式发布项目信息，不同权限的人组成项目团队
+exclude: [img, copy_of_index_html, try, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: 易度项目文档管理

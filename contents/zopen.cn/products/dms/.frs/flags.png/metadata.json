@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/png", 
+        "contenttype": "Image", 
+        "id": "flags.png"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-12-29 03:02:49", 
+        "title": "flags.png"
+    }
+}

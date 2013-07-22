@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "topic-template"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "预先设置的知识专题的模板", 
+        "modified": "2006-07-10 03:49:18", 
+        "title": "专题模板"
+    }
+}

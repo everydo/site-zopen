@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/png", 
+        "contenttype": "Image", 
+        "id": "schema-bad-reference.png"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "", 
+        "modified": "2005-03-19 20:29:14", 
+        "title": "标引黑名单"
+    }
+}

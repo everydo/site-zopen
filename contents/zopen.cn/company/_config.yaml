@@ -1,0 +1,6 @@
+description: 公司介绍信息
+exclude: [img, indexcol.rst, index.rst, culture, job, partners, team]
+order: []
+theme: default.html
+theme_default: default.html
+title: 关于润普

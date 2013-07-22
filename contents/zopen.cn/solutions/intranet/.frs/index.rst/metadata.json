@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "为企业建立一个内部信息发布平台，构建有效的沟通渠道，加强企业凝聚力。", 
+        "modified": "2006-07-27 12:17:24", 
+        "title": "企业内部网解决方案"
+    }
+}

@@ -1,0 +1,6 @@
+description: ''
+exclude: [consultant.gif, indexcol.rst, index.rst, plone-book-zh]
+order: [plone-basic, plone-advanced, python-basic, doc]
+theme: default.html
+theme_default: default.html
+title: 培训

@@ -1,0 +1,18 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "frs",
+        "hidden_keys":[
+              "img",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "直接在文件系统上存储文件，为企业的海量文档提供开放、可靠、稳定、可扩展的存储。支持版本管理、回收站等功能，和Plone实现完全的集成。", 
+        "modified": "2006-10-08 20:24:08", 
+        "title": "ZOpen FRS - 文件库系统"
+    }
+}

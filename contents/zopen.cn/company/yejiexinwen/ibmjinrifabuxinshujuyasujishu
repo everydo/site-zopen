@@ -1,0 +1,17 @@
+<div>
+<p><font face="Verdana">IBM本周将在过去两年中被EMC侵犯的数据管理领域发起反击。</font></p>
+<p><font face="Verdana">该公司今天将推出一款代号“Venom”的新的数据压缩软件，设计用来帮助客户砍掉他们一半的存储硬件成本和使用。</font></p>
+<p><font face="Verdana">IBM表示Venom也能通过压缩数据列提高服务器的CPU和内存带宽，将是该公司即将推出的DB2 Viper数据服务器所采用的技术之一，后者目前正在由客户和合作伙伴检验。扼要地说，IBM以DB2作为武器来与其数据库竞争对手Oracle和微软战斗。</font></p>
+<p><font face="Verdana">IBM表示，“Venom将不仅是攻击IBM的传统数据库竞争对手Oracle和微软，也将瞄准一个新的目标——存储硬件竞争者EMC。”</font></p>
+<p><font face="Verdana">“IBM的信息管理软件业务落在EMC之后，这应归于后者近年来收购了一些像Documentum这样的软件公司，提高了与IBM软件的竞争程度，而不仅仅是存储硬件。”</font></p>
+<p><font face="Verdana">Venom设计用于Windows、Linux和Unix系统，允许数据库管理员使用列压缩来在多维集群上压缩数据。列压缩（row compression）通过压缩大型表格中的重复数据图样节省磁盘、I/O和内存。</font></p>
+<p><font face="Verdana">该公司今天还计划推出一款软件来帮助客户自动化存储管理，让管理员可以降低人力升级。</font></p>
+<p><font face="Verdana">虽然不熟悉Venom，IDC分析师Carl
+Olofson表示存储系统能更好地改进压缩，包括介入磁盘控制器并调整磁盘上的数据格式以调节压缩方案。Olofson说，“我猜想它依赖什么，也猜想
+IBM是否这么做的，他们的竞争对手做得很好。当然，IBM将争论DB2 Viper为利用存储方案做了特别的优化等等。”</font></p>
+<p><font face="Verdana">Olofson表示数据管理领域的厂商，包括IBM、Oracle、微软和EMC，在这个领域交替领先，每一家都在竞争对手推出他们的下一个版本之前取得微弱的临时优势。</font></p>
+<p><font face="Verdana">新闻在这样一个有趣的时刻到来，IBM和EMC在管理数据市场是直接的竞争对手，尤其是在法规遵从迫使业务保护和供应他们的数据的世界。</font></p>
+<p><font face="Verdana">得益于收购像Documentum和Captiva这样的企业内容管理厂商，EMC获得了动力来侵犯IBM在数据管理软件的领地。</font></p>
+<p><font face="Verdana">这对竞争者也刚刚公布了出色的盈利报告。</font></p>
+<p><font face="Verdana">IBM报告期中间件品牌——包括WebSphere、DB2、Tivoli、Lotus和Rational产品——的销售为30亿美元，比2005年第一季度上升了6%。EMC的软件许可和维护收入增长11%，达到9.25亿美元。</font></p>
+<p><font face="Verdana">作为对长期战争补充的弹药，Venom的发布与EMC本周在波士顿召开的主要技术事件——年度EMC World——相符合。</font></p></div><br />

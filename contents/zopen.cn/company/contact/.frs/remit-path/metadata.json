@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "remit-path"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "美元、日元、港币汇款的路径. ", 
+        "modified": "2005-03-24 06:14:06", 
+        "title": "境外汇款路线"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "建立网上的项目工作区，加强项目团队协作，包括项目进度计划、任务分配、消息交流、文档共享和审核等", 
+        "modified": "2008-01-24 20:18:13", 
+        "title": "易度项目管理系统"
+    }
+}

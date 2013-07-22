@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司是一家创新型的开源软件服务公司", 
+        "modified": "2008-01-23 20:03:29", 
+        "title": "关于润普"
+    }
+}

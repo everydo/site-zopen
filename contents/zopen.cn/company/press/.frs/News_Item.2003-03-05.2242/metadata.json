@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/structured", 
+        "contenttype": "Document", 
+        "id": "News_Item.2003-03-05.2242"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "ZopeChinaPak是润普科技发布的一个Zope的中文补丁，他使得Zope/Plone等能更好的支持中文。", 
+        "modified": "2005-03-30 06:02:06", 
+        "title": "润普科技发布ZopeChinaPak，让Zope更好的支持中文"
+    }
+}

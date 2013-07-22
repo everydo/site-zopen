@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "custom-service"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "客户服务的网站", 
+        "modified": "2005-03-21 07:10:20", 
+        "title": "客户服务网站"
+    }
+}

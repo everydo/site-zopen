@@ -1,0 +1,24 @@
+{
+    "main": {
+       "left_col":".. include:: indexcol.rst",
+        "contenttype": "Folder", 
+        "hidden_keys":[
+              "img",
+              "indexcol.rst",
+              "index.rst",
+              "culture",
+              "job",
+              "partners",
+              "team"
+        ],
+        "id": "company"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "公司介绍信息", 
+        "modified": "2006-10-08 22:11:02", 
+        "title": "关于润普"
+    }
+}

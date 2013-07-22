@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/gif", 
+        "contenttype": "Image", 
+        "id": "zope_logo.gif"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "zope的logo", 
+        "modified": "2005-03-19 20:48:39", 
+        "title": "zope的logo"
+    }
+}

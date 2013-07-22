@@ -1,0 +1,14 @@
+Squid 
+===================
+.. image:: img/cache-squid.png
+   :class: image-right
+   :target: http://squid-cache.org
+   :width: 150
+
+Squid主要在Linux/Unix环境下运行，是一个功能完善的专业代理服务器，可和Zope/Plone集成，实现缓存加速、负载均衡等功能。
+
+润普提供对Squid缓存服务器的全面支持。
+
+Apache 
+==============
+Apache也提供了缓存加速的相关模块，可实现简单的缓存管理。

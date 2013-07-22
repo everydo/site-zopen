@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "cache"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "缓存加速服务器可极大的提高Zope/Plone的响应性能", 
+        "modified": "2006-07-24 02:15:55", 
+        "title": "缓存加速服务器"
+    }
+}

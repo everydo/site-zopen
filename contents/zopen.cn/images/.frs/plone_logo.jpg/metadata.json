@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/jpeg", 
+        "contenttype": "Image", 
+        "id": "plone_logo.jpg"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "plone的logo", 
+        "modified": "2005-03-19 20:45:43", 
+        "title": "plone的logo"
+    }
+}

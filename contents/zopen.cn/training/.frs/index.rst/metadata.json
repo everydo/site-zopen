@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司提供Python/Zope/Plone技术培训", 
+        "modified": "2007-04-24 03:42:25", 
+        "title": "润普Python/Zope/Plone培训"
+    }
+}

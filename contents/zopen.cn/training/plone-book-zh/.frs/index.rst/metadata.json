@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "一个策划草案", 
+        "modified": "2005-04-20 01:15:41", 
+        "title": "《Plone指南》编写策划"
+    }
+}

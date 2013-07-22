@@ -1,0 +1,6 @@
+description: 信息化部资料文档管理系统
+exclude: [indexcol.rst, img, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: 上海电信

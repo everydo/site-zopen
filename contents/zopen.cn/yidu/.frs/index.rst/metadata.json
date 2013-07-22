@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "易度是一个面向中小企业的在线工作互联网服务，包括项目管理、客户关系管理等系列软件", 
+        "modified": "2008-01-23 20:26:22", 
+        "title": "易度 － 企业在线工作平台"
+    }
+}

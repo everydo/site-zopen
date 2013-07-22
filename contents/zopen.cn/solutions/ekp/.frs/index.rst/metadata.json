@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "面向知识型企业和组织，以文档管理技术为基础，构建企业的统一知识门户，沉淀组织知识，鼓励员工知识分享，协助企业构建学习型组织，提升组织智力。", 
+        "modified": "2007-02-05 09:33:29", 
+        "title": "企业知识管理门户"
+    }
+}

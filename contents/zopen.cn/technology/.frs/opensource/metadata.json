@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "opensource"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "我们选择开放源代码的技术路线", 
+        "modified": "2005-03-18 23:33:13", 
+        "title": "开放源代码"
+    }
+}

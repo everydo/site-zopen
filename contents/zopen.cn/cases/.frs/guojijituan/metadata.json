@@ -1,0 +1,19 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "guojijituan",
+        "hidden_keys":[
+              "indexcol.rst",
+              "img",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-11-28 00:09:26", 
+        "title": "国机集团"
+    }
+}

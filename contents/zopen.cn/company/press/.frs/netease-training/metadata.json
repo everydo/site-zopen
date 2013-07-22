@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/structured", 
+        "contenttype": "Document", 
+        "id": "netease-training"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司为广州网易提供为期3天的Zope/Plone培训服务", 
+        "modified": "2005-07-04 23:35:55", 
+        "title": "润普为广州网易提供Zope/Plone培训服务"
+    }
+}

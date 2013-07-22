@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "汉化的外部编辑器客户端windows安装程序，完全支持中文文件名。", 
+        "modified": "2006-08-09 08:57:26", 
+        "title": "中文版Zope外部编辑器客户端"
+    }
+}

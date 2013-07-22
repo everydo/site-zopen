@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "buy"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "可向润普销售人员申请在线试用ZOpen EDM系统", 
+        "modified": "2006-12-22 01:09:19", 
+        "title": "试用和购买"
+    }
+}

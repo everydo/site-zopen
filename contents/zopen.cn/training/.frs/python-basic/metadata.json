@@ -1,0 +1,18 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "python-basic",
+        "hidden_keys":[
+              "indexcol.rst",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "Python语言的初级培训", 
+        "modified": "2006-10-17 02:53:58", 
+        "title": "Python基础培训"
+    }
+}

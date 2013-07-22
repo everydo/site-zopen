@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "我们的详细联系方式", 
+        "modified": "2008-01-13 20:33:10", 
+        "title": "联系我们"
+    }
+}

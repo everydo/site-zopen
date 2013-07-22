@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "plone-book-zh"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "第一本中文Plone书籍", 
+        "modified": "2005-04-20 01:10:47", 
+        "title": "Plone指南"
+    }
+}

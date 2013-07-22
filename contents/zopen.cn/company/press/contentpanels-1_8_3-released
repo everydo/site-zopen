@@ -1,0 +1,34 @@
+.. raw:: html
+
+   <p>相关链接:</p>
+	<ul class="simple">
+	<li><a class="reference" href="http://www.zopechina.com/products/CMFContentPanels/index_html/view">产品主页</a></li>
+	<li><a class="reference" href="http://download.zopechina.com/contentpanels-1_8_3.tgz">下载</a></li>
+	</ul>
+	<p>新版本的特性包括：</p>
+	<ul>
+	<li><p class="first">为viewlet添加了新的全局变量contentpanels, 她是面板所在的复合面板页面.</p>
+	</li>
+	<li><p class="first">复合面板在ZMI中新添加了一个properties标签。在这里，您可以改变复合面板自身的左右列面板。</p>
+	</li>
+	<li><p class="first">portal_contentpanels 新增了一个'install All Viewlets' 标签，点击它可安装所有注册的viewlets. 你可通过下面的方法注册自己的viewlets:</p>
+	<pre class="literal-block">
+	from Products.CMFContentPanels import registerViewlets
+	registerViewlets( you_viewlets )
+	</pre>
+	</li>
+	<li><p class="first">弹出的面板配置窗口的界面现在更加直观了</p>
+	</li>
+	<li><p class="first">最近更新viewlet不再显示文件夹</p>
+	</li>
+	<li><p class="first">增加了更多的viewlets，包括最新评注</p>
+	</li>
+	<li><p class="first">修正了相对路径的一个bug</p>
+	</li>
+	<li><p class="first">调整了布局表单界面</p>
+	</li>
+	<li><p class="first">修正了一个会导致删除失败的bug</p>
+	</li>
+	<li><p class="first">调整了法语翻译文件, 感谢Nicolas Laurance</p>
+	</li>
+	</ul>

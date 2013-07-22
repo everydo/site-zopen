@@ -1,0 +1,19 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "njcebbank",
+        "hidden_keys":[
+              "indexcol.rst",
+              "img",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "提供内部网培训和咨询", 
+        "modified": "2006-11-28 01:28:55", 
+        "title": "光大银行南京分行"
+    }
+}

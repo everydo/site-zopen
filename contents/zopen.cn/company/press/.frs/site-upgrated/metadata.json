@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "site-upgrated"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司网站成功升级至Plone2.1", 
+        "modified": "2005-03-23 02:20:32", 
+        "title": "润普公司网站升级"
+    }
+}

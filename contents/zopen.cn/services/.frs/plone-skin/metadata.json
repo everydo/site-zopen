@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "plone-skin"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "您需要将网站迁移到功能强大的Plone中吗？润普公司可以帮助您将网站外观设计套用到Plone中。", 
+        "modified": "2005-03-21 07:14:12", 
+        "title": "Plone网站外观套用"
+    }
+}

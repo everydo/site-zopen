@@ -1,0 +1,18 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "plone-chinese",
+        "hidden_keys":[
+              "img",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "Plone的windows即装即用安装程序，傻瓜安装，让Plone全面支持中文！", 
+        "modified": "2006-11-01 02:16:55", 
+        "title": "Plone中文版Windows安装包"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "AboutPlone"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "plone是一个企业级的开放源代码内容管理系统\r\n", 
+        "modified": "2006-12-30 02:33:10", 
+        "title": "Plone：企业级开源内容管理系统"
+    }
+}

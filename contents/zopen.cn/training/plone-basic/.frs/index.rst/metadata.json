@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "3天的培训课程，学员可利用Plone和相关扩展产品，通过定制和简单的脚本开发，独立搭建具备个性化外观和满足独特应用需要的网站，并部属到正式环境", 
+        "modified": "2006-08-30 05:02:15", 
+        "title": "Plone基础培训"
+    }
+}

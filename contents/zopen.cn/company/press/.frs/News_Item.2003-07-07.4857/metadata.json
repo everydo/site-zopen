@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/structured", 
+        "contenttype": "Document", 
+        "id": "News_Item.2003-07-07.4857"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "内容仪表盘组件的这个版本，增加了非常多的新特性，现在已经被润普公司广泛使用。润普公司再次将此版本贡献到开源社区。", 
+        "modified": "2005-03-30 06:02:09", 
+        "title": "润普科技发布内容仪表盘CMF ContentPanels 1.1！"
+    }
+}

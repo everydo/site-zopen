@@ -1,0 +1,18 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "plone-advanced",
+        "hidden_keys":[
+              "indexcol.rst",
+              "index.rst"
+        ]
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "针对Plone开发人员，提供Plone扩展开发培训，包括Archetypes、Five、Plone工具、测试、调试等。", 
+        "modified": "2005-11-09 10:37:51", 
+        "title": "Plone扩展开发培训"
+    }
+}

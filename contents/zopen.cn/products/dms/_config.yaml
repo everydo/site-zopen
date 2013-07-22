@@ -1,0 +1,6 @@
+description: 一个Windows平台上即拆即用的文档管理软件包
+exclude: [img, edm-intro.pdf, zopen-edm.doc, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: 易度文档管理系统

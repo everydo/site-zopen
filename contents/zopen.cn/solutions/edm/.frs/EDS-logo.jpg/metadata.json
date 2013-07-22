@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/jpeg", 
+        "contenttype": "Image", 
+        "id": "EDS-logo.jpg"
+    }, 
+    "dublin": {
+        "creators": [
+            "heqiang"
+        ], 
+        "description": "", 
+        "modified": "2006-12-26 00:20:39", 
+        "title": "EDS-logo.jpg"
+    }
+}

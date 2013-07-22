@@ -1,0 +1,6 @@
+description: 存放网站的一些公共图片，如我们公司的logo、czug的logo，zope/plone的logo等
+exclude: []
+order: []
+theme: default.html
+theme_default: default.html
+title: 公共图片

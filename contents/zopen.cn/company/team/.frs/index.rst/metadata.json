@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/plain", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "介绍润普主要的开发人员", 
+        "modified": "2006-07-10 08:54:37", 
+        "title": "开发团队"
+    }
+}

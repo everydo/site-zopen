@@ -1,0 +1,41 @@
+Windows
+======================
+.. image:: img/os-windows.gif
+   :class: image-right
+   :target: http://www.microsoft.com/windows
+   :width: 50
+
+Windows平台是国内企业用户大量使用的操作系统平台，Windows平台拥有较好的易用性好，精通Windows平台的系统管理人员也很容易获得。
+
+Windows平台是润普公司主要支持的操作系统之一。
+
+Debian Linux
+=================
+.. image:: img/os-debian.png
+   :class: image-right
+   :target: http://debian.org
+   :width: 50
+
+Debian拥有很长的发展历史，在众多Linux发行版中，Debian Linux拥有十分完善易用的包管理机制，非常容易维护。Debian Linux由开源社区维护，免费发行。
+
+Debian Linux是最流行的Linux发行版之一。基于Debian，衍生了众多其他的分支Linux发行版本。
+
+Ubuntu Linux
+==============
+.. image:: img/os-ubuntu.png
+   :class: image-right
+   :target: http://www.ubuntulinux.com
+   :width: 200
+
+Ubuntu Linux是由 Canonical_ 公司组织维护的一个年轻的Linux发行版本，它基于Debian发行版，非常关注用户感受，每年提供2个发行版本，号称"人性化的Linux发行"，Ubuntu Linux逐渐成为最主流的Linux的发行版之一。
+
+.. _canonical: http://www.canonical.com/
+
+FreeBSD
+===================
+.. image:: img/os-freebsd.png
+   :class: image-right
+   :target: http://www.freebsd.org
+   :width: 200
+
+FreeBSD 是一个开放源代码的UNIX®操作系统. FreeBSD以其严谨的结构、良好的性能、优异的稳定性和安全性，被众多大公司、研究机构、ISP服务商所采用。

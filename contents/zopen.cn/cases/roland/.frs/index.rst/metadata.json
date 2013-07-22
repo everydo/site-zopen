@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/html", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "这是一个典型多门户、协同办公解决方案的典型案例。系统为客户提供个性化的服务门户，提供项目进展信息和项目设计稿件的下载，交流讨论；为员工提供网络协同项目设计，远程服务客户的场所。\r\n", 
+        "modified": "2006-07-21 07:39:52", 
+        "title": "儒林客户服务/协同办公网站"
+    }
+}

@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "doc-template"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "分类存放各种标准的文档模板。在网站中添加“文件”的时候，可选择使用这里的文档。这里可按文件夹对文档模板进行分类。", 
+        "modified": "2006-07-10 03:49:13", 
+        "title": "文档模板"
+    }
+}

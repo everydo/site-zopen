@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "portal"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司基于Plone、Squid、Apache等开源系统，为您提供高性能、大负载、易操作、支持多语言的、易使用、易扩展、低投入的门户网站解决方案。", 
+        "modified": "2006-07-22 03:28:28", 
+        "title": "门户网站"
+    }
+}

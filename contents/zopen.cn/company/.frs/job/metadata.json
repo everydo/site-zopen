@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "job"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "如对下列职务感兴趣，请将应聘简历发邮件至 ｊｏｂ＠ｚｏｐｅｎ．ｃｎ", 
+        "modified": "2007-10-08 21:10:15", 
+        "title": "招聘信息"
+    }
+}

@@ -1,0 +1,7 @@
+description: 润普公司开发和维护的Zope/Plone扩展产品清单。部分产品使用开放源代码许可，可免费下载使用。
+exclude: [img, ecm, visible-source-license, ruhexuanzeqiyeneirongguanligongju, index.rst,
+  indexcol.rst, zopen-opensource.gif]
+order: [dms, project, frs, analyzer, open]
+theme: default.html
+theme_default: default.html
+title: 产品

@@ -1,0 +1,14 @@
+.. raw:: html
+
+   <p>ZopeChinaPak由 <a class="reference" href="http://zopen.cn">上海润普网络信息技术有限公司</a> 荣誉贡献。</p>
+	<p>本版本对Plone 2.5的改进支持包括：</p>
+	<ul class="simple">
+	<li>在ZMI中创建站点的时候，在Extension Profiles 框中，会看到新的&quot;Chinese Plone Site&quot;。如果要让您新创建的站点更好的支持中文，应该选择这个.</li>
+	<li>Plone 2.5的默认首页，也被翻译成中文了。</li>
+	</ul>
+	<p>相关链接：</p>
+	<ul class="simple">
+	<li><a class="reference" href="http://zopen.cn/products/open/ZopeChinaPak/">中文产品主页</a></li>
+	<li><a class="reference" href="http://plone.org/products/zopechinapak">英文产品主页</a></li>
+	<li><a class="reference" href="http://plone.org/products/zopechinapak/releases/0.8.2/zopechinapak-0_8_2.tgz">直接下载</a></li>
+	</ul>

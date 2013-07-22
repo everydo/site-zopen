@@ -1,0 +1,55 @@
+Zope是什么？
+------------------
+
+Zope（Z Object Publish Environment，Z对象发布系统），是一个企业级开放源代码Web应用服务器软件。Zope特别适合构建内容管理、内部网、门户网站，及其他更多的定制的web应用。
+
+.. image:: /images/zope_logo.gif
+   :target: http://www.zope.org
+
+Zope是由包括 `美国zope公司 <http://www.zope.com/>`_ 在内的 `数百个商业公司 <http://www.zope.org/Resources/ZSP/>`_ 以及数千个开发人员组成的的Zope技术社区 `Zope.org <http://www.zope.org/>`_ 多年共同努力的结晶。
+
+1999年，美国Zope公司宣布其核心产品Zope为开放源代码软件。经过多年的发展，Zope已成为开放源代码软件商业模式的经典案例，Zope被誉为Web上Linux系统。zope更成为了 `美国海军、法国政府和北约组织的选择 <http://www.zope.com/ZopeClientList>`_ 。2002年Zope更是赢得 `Linux Journal Award的企业应用服务器大奖 <http://www.linuxjournal.com/article.php?sid=6260>`_ 。
+
+2004年， `Zope3 <http://dev.zope.org/Wikis/DevSite/Projects/ComponentArchitecture/FrontPage>`_ 即将发布，这个版本对zope是一个革命性的版本，这一年也将是zope全面获胜的一年。
+
+为什么要选择Zope？
+-----------------------
+
+与同类产品相比，使用Zope构建web应用花费的开支更少，但开发的速度会更快。和其他的应用服务器相比，Zope有如下特性：
+
+免费
+  Zope是免费的，其他的应用服务器相当的昂贵。
+
+完整的平台
+  Zope是一个自包含的完整平台，他自带了所有的必须的组件。
+  您无需购买其他的软件许可证来支持Zope（如数据库系统），以运行您的应用。这同时，也使得Zope非常容易安装。许多应用服务器需要其他的应用服务器支撑，这导致一旦开始开发，您需要去购买这些软件的昂贵许可证，因此他们有很多隐藏的费用。
+
+丰富的第三方产品
+  Zope允许和鼓励第三方开发者打包和分发已有的应用。因此，Zope拥有丰富的集成服务和直接可用附加的产品(如CMF/Zope/Plone/OpenFlow等)。这些产品绝大多数和Zope一样，是免费和开发源代码的。Zope的流行，哺育了一个很大的开发社区。其他的应用服务器没有如此广泛的第三方支持，或者缺少直接的插件方式。
+
+无限平滑扩展
+  Zope的应用能使用Zope的Zope企业对象（ZEO）的Clusting技术扩展。使用ZEO，您可以在多个物理计算机上分步式地部署署您的应用，而不必修改您的程序代码。很多应用服务器，并不能和设想的那样平滑扩展。
+
+开发简单
+  Zope允许开发人员仅仅使用Web浏览器开发应用程序。IE，Mozilla，Netscape，OmniWeb，Konqueror，和Opera浏览器都能很好的显示和操作Zope的开发管理环境（ZMI）。在这个web界面下，Zope能安全地将服务器的开发任务委托到其他的开发人员。几乎没有其他的应用服务器，能提供同等的功能。
+ 
+精细、可扩展的权限管理
+  Zope提供精细的、可扩展的权限框架。你可以使用已有的模块，将Zope同其他系统的认证和鉴权进行轻松集成，如LADP、WindowsNT、RADIUS等。很多其他的应用服务器，缺少对某些重要的认证和鉴权方式的支持。
+
+协同开发
+  Zope允许开发人员有效的协作。协作的环境要求参与人员的工作不能相互干扰。Zope提供回退、版本、历史和很多其他的工具，来安全工作、避免错误。很多其他的服务器不能提供此特性。
+
+跨平台
+  Zope能在大多数的流行服务器上运行，如：Linux、Windows NT/2000/XP、Solaris、FreeBSD、NetBSD、OpenBSD、和Mac OS X。Zope甚至能在Windows 98/ME上运行。很多应用服务器，只能在他们指定的操作系统上运行。
+
+基于Python
+  Zope可以使用python语言扩展。Python非常容易学习，能带来快速的开发。有很多Python的开发包可供你创建您的应用。很多其他的服务器，必须使用很复杂的语言，如java，这样减慢了开发的速度。其他的应用服务器，使用不太流行的语言，这样他们很少有拿来就能用的开发包。
+
+参考：
+
+0. `Zope - an open-source application server and CMS system <http://zopyx.com/Technologies/Zope/>`_ 
+
+1. `What Is Zope? <http://zope.org/WhatIsZope/>`_
+
+2. `Zope介绍 <http://www.czug.org/docs/zope/zopebook/X_e4_bb_8b_e7_bb_8dZope/>`_
+

@@ -1,0 +1,6 @@
+description: 我们提供内容管理相关的解决方案
+exclude: [img, zopen-solution, portal, custom-service, index.rst, indexcol.rst]
+order: [ekp, project, edm, intranet]
+theme: default.html
+theme_default: default.html
+title: 解决方案

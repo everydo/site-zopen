@@ -1,0 +1,27 @@
+邮件服务器集成
+================
+邮件服务器包括SMTP邮件传输代理服务器，和POP3/IMAP邮件接收服务器。
+
+Zope/Plone可和任意的提供POP3/IMAP/SMTP接口的邮件服务器进行集成。
+
+Exim
+=================
+.. image:: img/mail-exim.png
+   :class: image-right
+   :target: http://www.exim.org/
+   :width: 120
+
+Exim是英国剑桥大学开发的开放源代码邮件发送代理，他采用SMTP协议接收、发送邮件。
+
+Exim拥有高度灵活的可配置性，能够和Cyrus等系统良好集成。
+
+Cyrus
+==================
+.. image:: img/mail-cyrus.jpg
+   :class: image-right
+   :target: http://cyrusimap.web.cmu.edu/
+   :width: 100
+
+Cyrus是美国Carnegie Mellon大学开发的一个高可扩展的开放源代码企业邮件系统，它基于标准技术，可用于各种大小的企业环境。
+
+Cyrus可提供IMAP/POP3的访问接口，是最开源世界主流的邮件系统之一。

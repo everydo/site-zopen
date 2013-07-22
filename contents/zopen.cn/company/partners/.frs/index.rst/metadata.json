@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/html", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "合作伙伴", 
+        "modified": "2005-03-19 03:05:46", 
+        "title": "合作伙伴"
+    }
+}

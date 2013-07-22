@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "为企业的海量文档资料提供开放、可靠、稳定、可扩展的存储", 
+        "modified": "2008-02-17 22:04:07", 
+        "title": "ZOpen FRS: 文件库系统"
+    }
+}

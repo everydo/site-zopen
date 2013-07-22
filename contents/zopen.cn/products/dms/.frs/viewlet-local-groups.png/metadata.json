@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/png", 
+        "contenttype": "Image", 
+        "id": "viewlet-local-groups.png"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-07-24 21:51:44", 
+        "title": "viewlet-local-groups.png"
+    }
+}

@@ -1,0 +1,29 @@
+LDAP协议
+=============
+LDAP, 轻量级目录访问协议，被广泛用于存储和管理用户帐号信息。LDAP采用树状结构存储对象，各种对象，使用Schema来定义字段结构，LDAP提供了高读取性能、高可靠性的数据存储机制。
+
+Windows活动目录
+=======================
+.. image:: img/ldap-active-directory.jpg
+   :class: image-right
+   :target: http://www.microsoft.com/china/windowsserver2003/techinfo/overview/activedirectory.mspx
+
+Windows活动目录功能，是Windows域服务器不可缺少的一部分，被很多企业大量使用。Windows的活动目录拥有良好的操作管理用户界面。
+
+润普公司能够提供对Windows活动目录的全面支持，实现和Plone的完全集成，包括安全连接(SSL)、修改口令、用户管理、用户组集成等。
+
+OpenLDAP 
+=====================
+.. image:: img/ldap-openldap.gif
+   :class: image-right
+   :target: http://www.openldap.org/
+
+OpenLDAP 是开源世界标准的LDAP服务器，可在Linux/Unix等多种平台上运行。
+
+润普公司提供对OpenLDAP服务器的安装、配置、节点组织、Plone集成的全面支持服务；
+
+其他的LDAP集成
+=======================
+很多其他的系统，也能够提供LDAP接口，比如Domino服务器等。
+
+润普公司可将Zope/Plone和企业现有LDAP应用系统，进行集成。

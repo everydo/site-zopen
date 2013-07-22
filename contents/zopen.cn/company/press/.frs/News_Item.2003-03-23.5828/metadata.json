@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/structured", 
+        "contenttype": "Document", 
+        "id": "News_Item.2003-03-23.5828"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "CMFContentPanels是一个用于Plone的内容仪表板组件，用于轻松构建复杂的界面。她是针对CMFPortlet完全重写的一个产品，最大特点是将布局信息存放在内容中，而不是放在MemberData中。", 
+        "modified": "2005-03-30 06:02:07", 
+        "title": "润普科技发布内容仪表板CMFContentPanels"
+    }
+}

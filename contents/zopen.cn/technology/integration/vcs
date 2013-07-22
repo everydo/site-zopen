@@ -1,0 +1,21 @@
+Bazaar
+==========
+.. image:: img/vcs-bazaar.png
+   :class: image-right
+   :target: http://bazaar-vcs.org/
+   :width: 120
+
+Bazaar是使用Python编写的一个非集中的开放源代码版本管理系统，由 `Canonical <http://canonical.com/>`__ 组织开发。
+
+Bazaar安装、使用非常简单，可方便的编写各种插件产品。Bazaar仓库无需建立单独的服务器，直接使用标准的http/ftp协议便可发布。Bazaar可轻松和Zope/Plone实现集成。
+
+Subversion
+==================
+.. image:: img/vcs-subversion.png
+   :class: image-right
+   :target: http://subversion.tigris.org
+   :width: 120
+
+Subversion是一个代替cvs的源代码版本管理软件。
+
+Plone上有一些插件产品，可直接浏览subversion版本管理服务器上的内容。

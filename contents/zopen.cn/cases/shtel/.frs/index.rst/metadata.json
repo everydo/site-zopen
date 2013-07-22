@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "项目资料管理系统", 
+        "modified": "2006-07-21 21:12:30", 
+        "title": "项目资料管理系统"
+    }
+}

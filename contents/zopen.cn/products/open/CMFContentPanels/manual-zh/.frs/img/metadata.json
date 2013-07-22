@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "img"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "在手册中用到的产品截图", 
+        "modified": "2006-09-29 11:17:49", 
+        "title": "产品截图"
+    }
+}

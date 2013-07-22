@@ -1,0 +1,13 @@
+.. raw:: html
+
+   <p>使用内容面板产品CMFContentPanels，无需编程，直接在页面上选择不同内容不同视图，以面板的形式拼装成复杂的动态页面。</p>
+	<p>新版本的主要特性包括：</p>
+	<ul class="simple">
+	<li>支持本地导航树</li>
+	<li>页面生成速度加快</li>
+	<li>新添加图片新闻的视图</li>
+	<li>使用portal_css注册css</li>
+	<li>代码优化，bug修改</li>
+	</ul>
+	<p><a class="reference" href="http://plone.org/products/cmfcontentpanels">下载</a></p>
+	<p><a class="reference" href="http://www.zopechina.com/products/CMFContentPanels">中文产品介绍页面</a></p>

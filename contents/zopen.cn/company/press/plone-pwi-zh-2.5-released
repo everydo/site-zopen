@@ -1,0 +1,27 @@
+.. raw:: html
+
+   <p><a class="reference" href="http://zopen.cn">润普公司</a> 荣誉发布第一个windows平台上的全中文Plone安装程序，免费下载安装使用。</p>
+	<p>这个安装程序是傻瓜型的，在windows上的即装即用的、完全中文化的安装程序，根据机器性能，只需要4-9分钟，便可下载安装完成。这将大大降低中文用户进入Plone的门槛，加速Plone在中文地区的推广。</p>
+	<div class="section" id="id1">
+	<h3><a name="id1">特性清单</a></h3>
+	<ul class="simple">
+	<li>基于Plone的最新版本 Plone 2.5.1</li>
+	<li>全中文的安装界面</li>
+	<li>中文版本的Plone控制器，用于启动和管理Plone服务</li>
+	<li>自带中文版本的外部编辑器，可选安装</li>
+	<li>自带最新版本的ZopeChinaPak和CJKSplitter中文支持插件</li>
+	<li>自动创建全中文的Plone站点，支持中文全文搜索</li>
+	<li>自带CMFContentPanels、Ploneboard等社区常用产品（可选安装）</li>
+	</ul>
+	</div>
+	<div class="section" id="id2">
+	<h3><a name="id2">相关链接</a></h3>
+	<ul class="simple">
+	<li><a class="reference" href="http://prdownloads.sourceforge.net/zopeasia/plone-2.5.1-zh-setup-1.exe?download">选择镜像站点下载</a></li>
+	<li><a class="reference" href="http://zopen.cn/products/open/plone-chinese">产品页面</a></li>
+	</ul>
+	</div>
+	<div class="section" id="id3">
+	<h3><a name="id3">关于润普</a></h3>
+	<p><a class="reference" href="http://zopen.cn">润普公司(zope.cn)</a> ，是Zope/Plone在中文地区的主要推广公司，提供基于Plone的技术培训和企业内容管理解决方案。</p>
+	</div>

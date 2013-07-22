@@ -1,0 +1,6 @@
+description: 公司的开源技术路线
+exclude: [indexcol.rst, img, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: 技术

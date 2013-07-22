@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "application/pdf", 
+        "contenttype": "File", 
+        "id": "edm-intro.pdf"
+    }, 
+    "dublin": {
+        "creators": [
+            "heqiang"
+        ], 
+        "description": "", 
+        "modified": "2006-10-07 03:59:37", 
+        "title": "edm-intro.pdf"
+    }
+}

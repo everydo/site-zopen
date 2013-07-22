@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "对文档提供获取、管理、存储、分发的全生命周期管理", 
+        "modified": "2008-02-17 22:02:09", 
+        "title": "易度文档管理系统"
+    }
+}

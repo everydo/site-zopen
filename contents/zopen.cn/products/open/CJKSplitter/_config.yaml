@@ -1,0 +1,6 @@
+description: Zope中日韩全文索引断字模块：最流行的Zope中文搜索支持模块。
+exclude: [img, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: CJKSplitter：中文搜索分词模块

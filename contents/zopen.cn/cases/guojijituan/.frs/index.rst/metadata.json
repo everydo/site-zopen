@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "润普公司为国机集团通用机械研究所提供了工程项目管理的解决方案。", 
+        "modified": "2006-11-28 00:54:57", 
+        "title": "国机集团-通用机械研究所"
+    }
+}

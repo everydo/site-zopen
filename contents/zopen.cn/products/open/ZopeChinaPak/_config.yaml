@@ -1,0 +1,6 @@
+description: Zope/Plone中文支持包：Zope和Plone的"标准"中文支持包，即装即用。
+exclude: [img, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: ZopeChinaPak：中文支持补丁集

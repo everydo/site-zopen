@@ -1,0 +1,14 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "id": "smart-folder"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "存放系统级的查询集。查询集是根据预先定义的一组查询条件，对网站内容进行搜索的结果。", 
+        "modified": "2006-07-10 03:49:14", 
+        "title": "查询集"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/png", 
+        "contenttype": "Image", 
+        "id": "frs-transparent.png"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-07-21 21:32:48", 
+        "title": "frs-transparent.png"
+    }
+}

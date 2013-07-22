@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "os"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "润普公司推荐和主要支持的操作系统平台", 
+        "modified": "2006-07-24 01:06:26", 
+        "title": "操作系统"
+    }
+}

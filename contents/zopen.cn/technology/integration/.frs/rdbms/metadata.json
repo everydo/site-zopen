@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "rdbms"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "Zope/Plone和连接到关系数据库，进行传统的数据库开发，或者和现有的数据库应用集成", 
+        "modified": "2006-07-24 02:28:27", 
+        "title": "关系数据库"
+    }
+}

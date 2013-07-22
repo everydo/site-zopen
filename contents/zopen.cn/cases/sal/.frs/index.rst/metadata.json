@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/x-rst", 
+        "contenttype": "Document", 
+        "id": "index.rst"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "IT知识库系统可统一管理技术知识、资料和项目，建立部门信息门户。该系统，是IT部员工的一个综合的知识门户系统。", 
+        "modified": "2006-11-29 22:23:11", 
+        "title": "上海航空IT知识库项目"
+    }
+}

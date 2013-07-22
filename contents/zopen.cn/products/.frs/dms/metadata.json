@@ -1,0 +1,20 @@
+{
+    "main": {
+        "contenttype": "Folder", 
+        "hidden_keys":[
+              "img",
+              "edm-intro.pdf",
+              "zopen-edm.doc",
+              "index.rst"
+        ],
+        "id": "dms"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "一个Windows平台上即拆即用的文档管理软件包", 
+        "modified": "2007-11-10 19:33:13", 
+        "title": "易度文档管理系统"
+    }
+}

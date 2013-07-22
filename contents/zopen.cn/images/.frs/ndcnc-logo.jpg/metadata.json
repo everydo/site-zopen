@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/jpeg", 
+        "contenttype": "Image", 
+        "id": "ndcnc-logo.jpg"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "文化共享的logo", 
+        "modified": "2005-03-19 02:51:59", 
+        "title": "文化共享logo"
+    }
+}

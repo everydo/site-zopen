@@ -1,0 +1,6 @@
+description: Plone的windows即装即用安装程序，傻瓜安装，让Plone全面支持中文！
+exclude: [img, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: Plone中文版Windows安装包

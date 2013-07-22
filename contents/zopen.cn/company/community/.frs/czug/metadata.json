@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/structured", 
+        "contenttype": "Document", 
+        "id": "czug"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "CZUG.org, 中文Zope/plone用户组，由润普公司建立、组织和维护，是在中文地区推广Zope/Plone的有力平台。", 
+        "modified": "2006-09-02 10:43:30", 
+        "title": "中文Zope/plone用户组"
+    }
+}

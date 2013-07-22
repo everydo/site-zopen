@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/png", 
+        "contenttype": "Image", 
+        "id": "plone-windows-displayview.png"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-12-29 04:32:13", 
+        "title": "plone-windows-displayview.png"
+    }
+}

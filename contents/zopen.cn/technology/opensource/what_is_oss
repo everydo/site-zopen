@@ -1,0 +1,28 @@
+.. image:: /images/opensource-logo.gif
+   :class: image-right
+   :target: http://opensource.org
+
+开放源代码软件是一种公开源代码的软件，任何人都可以修改、使用、拷贝、分发软件的源代码。Linux和Zope是最典型的开放源代码软件。
+
+开放源代码软件由众多的商业公司共同开发，能够得到更好的质量保证。Zope是由数百个公司数千个开发人员共同维护的，他们共同组成了 `zope社区 <http://www.zope.org>`__ 。同样Plone也是由很多的商业公司在共同开发和维护，润普公司正是这些商业公司的积极参与者之一。其实，IBM和惠普也都是 `支持开放源代码的软件公司 <http://opensource.org/docs/products.php>`__ 。
+
+同传统的封闭源代码软件相比，开放源代码软件为客户带来如下价值：
+
+没有版权问题
+  客户无需支付软件License费用，便可授权使用。这同时极大地降低了解决方案的成本。
+
+更加安全和稳定
+  由于其开放性，开放软件源代码可以得到全世界众多同行的审查，因此更易具备类似Linux的安全性和稳定性
+
+更强的生命力
+  开放源代码产品有更多的用户，因此她有着更强的生命力。 开放源代码软件不会因某个具体的公司的倒闭而结束。
+
+**参考链接：**
+
+- `开发源代码促进组织 <http://opensource.org>`__
+
+- `从用户角度看开放源代码 <http://opensource.org/advocacy/case_for_customers.php>`__
+
+- `OpenSource的常见问题 <http://opensource.org/advocacy/faq.php>`__
+
+- `网景创始人谈开放源代码得以迅猛发展12大理由 <http://www.linuxeden.com/news/index.php?newsid=5938>`__

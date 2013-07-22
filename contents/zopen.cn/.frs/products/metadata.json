@@ -1,0 +1,31 @@
+{
+    "main": {
+       "left_col":".. include:: indexcol.rst",
+        "contenttype": "Folder", 
+        "hidden_keys":[
+              "img",
+              "ecm",
+              "visible-source-license",
+              "ruhexuanzeqiyeneirongguanligongju",
+              "index.rst",
+              "indexcol.rst",
+              "zopen-opensource.gif"
+        ],
+        "keys":[
+              "dms",
+              "project",
+              "frs",
+              "analyzer",
+              "open"
+        ],
+        "id": "products"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "润普公司开发和维护的Zope/Plone扩展产品清单。部分产品使用开放源代码许可，可免费下载使用。", 
+        "modified": "2006-10-08 20:22:24", 
+        "title": "产品"
+    }
+}

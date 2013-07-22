@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "image/gif", 
+        "contenttype": "Image", 
+        "id": "ldap-openldap.gif"
+    }, 
+    "dublin": {
+        "creators": [
+            "admin"
+        ], 
+        "description": "", 
+        "modified": "2006-07-24 01:16:38", 
+        "title": "ldap-openldap.gif"
+    }
+}

@@ -1,0 +1,15 @@
+{
+    "main": {
+        "mimetype": "text/structured", 
+        "contenttype": "Document", 
+        "id": "why_oss"
+    }, 
+    "dublin": {
+        "creators": [
+            "panjy"
+        ], 
+        "description": "比较企业信息化的这三种方案，我们有理由选择开放源代码软件。", 
+        "modified": "2005-03-19 00:04:01", 
+        "title": "自制、购买，或开源"
+    }
+}

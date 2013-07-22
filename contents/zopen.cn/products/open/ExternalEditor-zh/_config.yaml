@@ -1,0 +1,6 @@
+description: '中文版Zope外部编辑器客户端: 汉化的外部编辑器客户端windows安装程序，完全支持中文文件名。'
+exclude: [img, externaleditor-install.png, index.rst]
+order: []
+theme: default.html
+theme_default: default.html
+title: 外部编辑器中文补丁版
