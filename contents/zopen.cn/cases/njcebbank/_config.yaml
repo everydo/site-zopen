@@ -1,6 +1,4 @@
 description: 提供内部网培训和咨询
 exclude: [indexcol.rst, img, index.rst]
 order: []
-theme: default.html
-theme_default: default.html
 title: 光大银行南京分行

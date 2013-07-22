@@ -1,6 +1,4 @@
 description: 润普公司针对企业内部网应用的需求，在Windows平台上的基于Plone定制开发的一个即装即用的企业内容管理服务器软件。ZOpen ECM是润普企业解决方案的基础平台。
 exclude: [img, index.rst, flashes]
 order: []
-theme: default.html
-theme_default: default.html
 title: ZOpen ECM：企业内容管理平台

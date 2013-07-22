@@ -1,15 +1,17 @@
 ---
 created:
-  creators:
-  - admin
-  description: 在企业内容管理领域，润普公司为企业提供包括咨询、定制开发、集成、实施、培训、支持的全面解决方案
-  modified: '2006-12-29 23:50:06'
-  title: 润普企业内容管理解决方案
+modified: '2006-12-29 23:50:06'
 creator: admin
 description: 在企业内容管理领域，润普公司为企业提供包括咨询、定制开发、集成、实施、培训、支持的全面解决方案
 title: 润普企业内容管理解决方案
 ---
-.. image:: /images/solutions-in.gif
+=============================
+润普企业内容管理解决方案
+=============================
+
+在企业内容管理领域，润普公司为企业提供包括咨询、定制开发、集成、实施、培训、支持的全面解决方案
+
+.. image:: ../images/solutions-in.gif
    :class: image-right  image-noborder
    :width: 200
 

@@ -1,14 +1,16 @@
 ---
 created:
-  creators:
-  - panjy
-  description: 润普公司是一家创新型的开源软件服务公司
-  modified: '2008-01-23 20:03:29'
-  title: 关于润普
+modified: '2008-01-23 20:03:29'
 creator: panjy
 description: 润普公司是一家创新型的开源软件服务公司
 title: 关于润普
 ---
+===========
+关于润普
+===========
+
+润普公司是一家创新型的开源软件服务公司
+
 主营业务
 ==============
 .. image:: img/logo-zopen2.jpg

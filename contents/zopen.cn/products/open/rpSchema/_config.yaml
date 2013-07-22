@@ -1,6 +1,4 @@
 description: Plone可视化内容语义和模板系统：直接在Plone的友好界面下，无需任何专业编程知识，便可实现Plone内容的扩展和外观定制。系统支持多层次的内容语义定义、索引管理、内容标引管理，以及内容模板、查询模板的设计，可自动生成内容查询表单。rpSchema包括SchemaEngine和SchemaTemplate两个产品。
 exclude: [img, index.rst]
 order: []
-theme: default.html
-theme_default: default.html
 title: rpSchema：表单自定义

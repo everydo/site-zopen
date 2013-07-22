@@ -1,6 +1,4 @@
 description: 儒林门户系统，包括外部网、内部网和客户门户
 exclude: []
 order: []
-theme: default.html
-theme_default: default.html
 title: 儒林公司内外网

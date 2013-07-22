@@ -1,6 +1,4 @@
 description: 集中归档项目各种信息、文档、资料，以门户的形式发布项目信息，跟踪项目故障和需求变更；完善的项目任务管理，支持项目进度报告和员工工作考核。
 exclude: [xiangmuguanlilinian]
 order: []
-theme: default.html
-theme_default: default.html
 title: 项目管理

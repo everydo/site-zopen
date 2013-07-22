@@ -1,6 +1,4 @@
 description: 管理企业的各种电子文档资料
 exclude: [EDS-logo.jpg]
 order: []
-theme: default.html
-theme_default: default.html
 title: 文档管理

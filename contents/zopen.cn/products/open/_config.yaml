@@ -1,6 +1,4 @@
 description: 润普公司贡献的一批Zope/Plone开源产品和扩展插件，均可免费下载使用。其中包括CJKSplitter中文搜索支持插件、ZopeChinaPak中文补集、ContentPanels内容面板产品等社区流行产品。
 exclude: [img, index.rst]
 order: []
-theme: default.html
-theme_default: default.html
 title: Opensource - 开源产品

@@ -1,6 +1,4 @@
 description: 第一本中文Plone书籍
 exclude: []
 order: []
-theme: default.html
-theme_default: default.html
 title: Plone指南

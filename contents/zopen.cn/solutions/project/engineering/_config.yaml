@@ -1,6 +1,4 @@
 description: 将公司的项目流程规范植入信息系统，自动化项目流程和文档审批流程，项目人员面向流程任务工作，驱动项目流程扭转；项目流程、项目阶段、项目文档能够有机结合在一起，给公司管理人员全面的项目信息。
 exclude: [index.rst, renderInstance.gif, renderProcess.gif]
 order: []
-theme: default.html
-theme_default: default.html
 title: 工程项目管理解决方案

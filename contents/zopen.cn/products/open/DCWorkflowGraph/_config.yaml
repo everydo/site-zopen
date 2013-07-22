@@ -1,6 +1,4 @@
 description: Plone工作流图形化展示：图形化的方法显示Plone的工作流
 exclude: [img, dcworkflowgraph.png, index.rst]
 order: []
-theme: default.html
-theme_default: default.html
 title: 工作流图形展示插件

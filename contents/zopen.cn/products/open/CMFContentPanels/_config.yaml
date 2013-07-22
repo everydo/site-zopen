@@ -1,6 +1,4 @@
 description: Plone内容面板页面：无需编程，直接在页面上选择不同内容不同视图，以面板的形式拼装复杂的动态页面。
 exclude: [img, index.rst]
 order: []
-theme: default.html
-theme_default: default.html
 title: ContentPanels：内容面板

@@ -1,14 +1,16 @@
 ---
 created:
-  creators:
-  - panjy
-  description: 润普公司提供Python/Zope/Plone技术培训
-  modified: '2007-04-24 03:42:25'
-  title: 润普Python/Zope/Plone培训
+modified: '2007-04-24 03:42:25'
 creator: panjy
 description: 润普公司提供Python/Zope/Plone技术培训
 title: 润普Python/Zope/Plone培训
 ---
+==========================
+润普Python/Zope/Plone培训
+==========================
+
+润普公司提供Python/Zope/Plone技术培训
+
 专业培训
 ============
 

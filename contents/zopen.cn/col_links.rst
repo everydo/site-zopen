@@ -31,11 +31,11 @@
 		            <br>
 	                <a href="http://opensource.everydo.com" title=易度开源项目中心>
 			        易度开源中心
-		            </a>		
+		            </a>
                     <br>
 	                <a href="http://viewer.everydo.com" title=易度云查看：在线文档查看最佳解决文案>
 			        易度云查看
-		            </a>		
+		            </a>
                     <br>
                     <a href="http://czug.org">
                         czug.org

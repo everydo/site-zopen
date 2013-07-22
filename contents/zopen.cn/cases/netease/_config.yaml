@@ -1,6 +1,4 @@
 description: 网易netease, 163.com
 exclude: [indexcol.rst, img, index.rst]
 order: []
-theme: default.html
-theme_default: default.html
 title: 网易

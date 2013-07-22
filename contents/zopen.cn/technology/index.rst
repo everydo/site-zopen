@@ -1,17 +1,19 @@
 ---
 created:
-  creators:
-  - panjy
-  description: 润普科技采用以Zope为核心的开放源代码软件的技术路线，为客户提供优质、安全、低价、成熟的解决方案。
-  modified: '2006-10-08 21:52:13'
-  title: 润普技术
+modified: '2006-10-08 21:52:13'
 creator: panjy
 description: 润普科技采用以Zope为核心的开放源代码软件的技术路线，为客户提供优质、安全、低价、成熟的解决方案。
 title: 润普技术
 ---
+==============
+润普技术
+==============
+
+润普科技采用以Zope为核心的开放源代码软件的技术路线，为客户提供优质、安全、低价、成熟的解决方案。
+
 使用开放源代码软件(Opensource)
 ===================================
-.. image:: /images/opensource-logo.gif
+.. image:: ../images/opensource-logo.gif
    :alt: 开源促进会
    :class: image-right
 
@@ -33,7 +35,7 @@ __ /technology/opensource/how_to_opensource_project
 
 Zope和Plone
 ============
-.. image:: /images/zopen-tech.jpg
+.. image:: ../images/zopen-tech.jpg
    :alt: zope
    :class: image-right image-noborder
 
