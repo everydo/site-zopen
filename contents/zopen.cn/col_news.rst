@@ -11,6 +11,7 @@
                 <span class="portletTopRight">
                 </span>
             </dt>
+            <dd class="portletItem">
 
 .. news::
    :path: company/press
@@ -18,7 +19,8 @@
 
 .. raw:: html
 
- <dd class="portletFooter">
+   </dd>
+ <dd class="portletItem portletFooter">
                 <a href="company/press/" class="tile">
                     更多
                 </a>

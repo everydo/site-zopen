@@ -120,10 +120,16 @@ h6 {
 }
 
 ul {
-    line-height: 1.8em;
-    margin: 1.3em 0 0 0.8em;
+    margin: 0 0 0 0;
     padding: 0;
     list-style-type: none;
+}
+
+ul span{
+    display:block;
+    text-align:right;
+    color:#76797c;
+    font-size:90%;
 }
 
 ol {
