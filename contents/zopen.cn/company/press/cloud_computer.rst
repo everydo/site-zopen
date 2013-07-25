@@ -1,5 +1,5 @@
 ---
-created: 2010-03-12 15:21
+created: 2010-03-12 15:21:00
 creator: xiaohai
 description: ''
 title: 聚焦云应用 第二届中国云计算大会即将召开

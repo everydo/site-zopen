@@ -1,10 +1,6 @@
 ---
-created:
-  creators:
-  - panjy
-  description: 2009.5.30日，润普公司在端午节，组织前往暨仁山庄度假游玩。
-  modified: '2009-06-03 19:50:22'
-  title: 活动快讯 - 暨仁山庄之行
+created: 2009-06-03 19:50:22
+modified: 2009-06-03 19:50:22
 creator: panjy
 description: 2009.5.30日，润普公司在端午节，组织前往暨仁山庄度假游玩。
 title: 活动快讯 - 暨仁山庄之行

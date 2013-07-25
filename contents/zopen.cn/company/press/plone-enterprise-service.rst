@@ -1,10 +1,6 @@
 ---
-created:
-  creators:
-  - zhangbingkai
-  description: ''
-  modified: '2007-06-07 23:18:56'
-  title: 润普与中国电信共推“企业内容管理在线服务”
+created: 2007-06-07 23:18:56
+modified: 2007-06-07 23:18:56
 creator: zhangbingkai
 description: ''
 title: 润普与中国电信共推“企业内容管理在线服务”

@@ -1,10 +1,6 @@
 ---
-created:
-  creators:
-  - admin
-  description: 应业务发展的需要，润普广纳贤才
-  modified: '2007-10-20 22:43:16'
-  title: 润普招聘信息
+created: 2007-10-20 22:43:16
+modified: 2007-10-20 22:43:16
 creator: admin
 description: 应业务发展的需要，润普广纳贤才
 title: 润普招聘信息

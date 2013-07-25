@@ -1,10 +1,6 @@
 ---
-created:
-  creators:
-  - admin
-  description: 易度是润普公司推出的一个创新的在线团队协作和项目管理平台，本月上线公测
-  modified: '2007-07-11 22:16:23'
-  title: 易度EveryDo.com上线公测！
+created: 2007-07-11 22:16:23
+modified: 2007-07-11 22:16:23
 creator: admin
 description: 易度是润普公司推出的一个创新的在线团队协作和项目管理平台，本月上线公测
 title: 易度EveryDo.com上线公测！
