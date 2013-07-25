@@ -1,14 +1,17 @@
 ---
-created:
-  creators:
-  - admin
-  description: 润普公司为南京光大银行提供了内部网建设咨询服务
-  modified: '2006-11-28 20:10:36'
-  title: 南京光大银行内部网
+created: 2006-11-28 20:10:36
+modified: 2006-11-28 20:10:36
 creator: admin
 description: 润普公司为南京光大银行提供了内部网建设咨询服务
 title: 南京光大银行内部网
 ---
+
+============================
+南京光大银行内部网
+============================
+
+润普公司为南京光大银行提供了内部网建设咨询服务
+
 .. image:: img/cebbank.gif
    :class: image-right
    :target: http://www.cebbank.com

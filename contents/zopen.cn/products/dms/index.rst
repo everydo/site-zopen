@@ -1,14 +1,17 @@
 ---
-created:
-  creators:
-  - admin
-  description: 对文档提供获取、管理、存储、分发的全生命周期管理
-  modified: '2008-02-17 22:02:09'
-  title: 易度文档管理系统
+created: 2008-02-17 22:02:09
+modified: 2008-02-17 22:02:09
 creator: admin
 description: 对文档提供获取、管理、存储、分发的全生命周期管理
 title: 易度文档管理系统
 ---
+==========================
+易度文档管理系统
+==========================
+
+
+对文档提供获取、管理、存储、分发的全生命周期管理
+
 .. image::  img/zopen-EDM-160.jpg 
    :class: image-right image-noborder
    :height: 120

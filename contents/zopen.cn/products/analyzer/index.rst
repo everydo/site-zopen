@@ -1,14 +1,17 @@
 ---
-created:
-  creators:
-  - panjy
-  description: 通用的数据挖掘和统计分析工具。支持对ZODB数据库和关系数据库的挖掘和分析，提供基于Plone的分析界面。自带对Plone网站内容组成、用户点击次数、用户访问次数的分析功能。
-  modified: '2006-10-27 02:08:28'
-  title: 'ZOpen Analyzer: 统计分析器'
+created: 2006-10-27 02:08:28
+modified: 2006-10-27 02:08:28
 creator: panjy
 description: 通用的数据挖掘和统计分析工具。支持对ZODB数据库和关系数据库的挖掘和分析，提供基于Plone的分析界面。自带对Plone网站内容组成、用户点击次数、用户访问次数的分析功能。
 title: 'ZOpen Analyzer: 统计分析器'
 ---
+
+===========================
+ZOpen Analyzer: 统计分析器
+===========================
+
+通用的数据挖掘和统计分析工具。支持对ZODB数据库和关系数据库的挖掘和分析，提供基于Plone的分析界面。自带对Plone网站内容组成、用户点击次数、用户访问次数的分析功能。
+
 .. image:: img/zope-analyzer.gif
    :class: noborder image-right image-noborder
 

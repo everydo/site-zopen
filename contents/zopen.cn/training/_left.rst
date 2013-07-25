@@ -11,12 +11,14 @@
                 <span class="portletTopRight">
                 </span>
             </dt>
+            <dd class="portletItem">
 
 .. navtree::
    :root_depth: 1
 
 .. raw:: html
 
+   </dd>
     <dd class="portletFooter">
     </dd>
    </dl>

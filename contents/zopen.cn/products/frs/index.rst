@@ -1,14 +1,17 @@
 ---
-created:
-  creators:
-  - panjy
-  description: 为企业的海量文档资料提供开放、可靠、稳定、可扩展的存储
-  modified: '2008-02-17 22:04:07'
-  title: 'ZOpen FRS: 文件库系统'
+created: 2008-02-17 22:04:07
+modified: 2008-02-17 22:04:07
 creator: panjy
 description: 为企业的海量文档资料提供开放、可靠、稳定、可扩展的存储
 title: 'ZOpen FRS: 文件库系统'
 ---
+
+======================
+ZOpen FRS: 文件库系统
+======================
+
+为企业的海量文档资料提供开放、可靠、稳定、可扩展的存储
+
 .. image:: img/zopen-frs.gif
    :class: image-right image-noborder
 

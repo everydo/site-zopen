@@ -1,14 +1,17 @@
 ---
-created:
-  creators:
-  - admin
-  description: 润普公司为国机集团通用机械研究所提供了工程项目管理的解决方案。
-  modified: '2006-11-28 00:54:57'
-  title: 国机集团-通用机械研究所
+created: 2006-11-28 00:54:57
+modified: 2006-11-28 00:54:57
 creator: admin
 description: 润普公司为国机集团通用机械研究所提供了工程项目管理的解决方案。
 title: 国机集团-通用机械研究所
 ---
+
+========================
+国机集团-通用机械研究所
+========================
+
+润普公司为国机集团通用机械研究所提供了工程项目管理的解决方案。
+
 .. image:: img/logo-guoji-hefei.gif
    :class: image-right
 

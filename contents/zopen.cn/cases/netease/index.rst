@@ -1,14 +1,17 @@
 ---
-created:
-  creators:
-  - admin
-  description: 润普公司为网易提供企业知识门户
-  modified: '2006-07-27 20:03:23'
-  title: 网易企业知识门户
+created:2006-07-27 20:03:23
+modified: 2006-07-27 20:03:23
 creator: admin
 description: 润普公司为网易提供企业知识门户
 title: 网易企业知识门户
 ---
+
+========================
+网易企业知识门户
+========================
+
+润普公司为网易提供企业知识门户
+
 .. image:: img/logo.gif
    :class: image-right
 

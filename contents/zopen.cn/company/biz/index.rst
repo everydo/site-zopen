@@ -1,14 +1,13 @@
 ---
-created:
-  creators:
-  - admin
-  description: 润普商业模式
-  modified: '2005-03-22 03:17:17'
-  title: 润普商业模式
+created: 2005-03-22 03:17:17
+modified: 2005-03-22 03:17:17
 creator: admin
 description: 润普商业模式
 title: 润普商业模式
 ---
+
+<h1>润普商业模式</h1>
+<p>润普商业模式</p>
 <p>润普科技使用<code>开放源代码商业模式</code>。</p>
 
  <h3>什么是开放源代码软件？</h3>

@@ -1,14 +1,16 @@
 ---
-created:
-  creators:
-  - admin
-  description: 2天的培训，让用户熟练掌握Python语言，以及常用的扩展包
-  modified: '2006-10-17 20:03:06'
-  title: Python基础培训
+created: 2006-10-17 20:03:06
+modified: 2006-10-17 20:03:06
 creator: admin
 description: 2天的培训，让用户熟练掌握Python语言，以及常用的扩展包
 title: Python基础培训
 ---
+====================
+Python基础培训
+====================
+
+2天的培训，让用户熟练掌握Python语言，以及常用的扩展包
+
 课程安排
 =====================
 第一天： Python语言基础

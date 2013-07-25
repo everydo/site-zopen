@@ -1,18 +1,20 @@
 ---
-created:
-  creators:
-  - panjy
-  description: 面向知识型企业和组织，以文档管理技术为基础，构建企业的统一知识门户，沉淀组织知识，鼓励员工知识分享，协助企业构建学习型组织，提升组织智力。
-  modified: '2007-02-05 09:33:29'
-  title: 企业知识管理门户
+created: 2007-02-05 09:33:29
+modified: 2007-02-05 09:33:29
 creator: panjy
 description: 面向知识型企业和组织，以文档管理技术为基础，构建企业的统一知识门户，沉淀组织知识，鼓励员工知识分享，协助企业构建学习型组织，提升组织智力。
 title: 企业知识管理门户
 ---
+=================
+企业知识管理门户
+=================
+
+面向知识型企业和组织，以文档管理技术为基础，构建企业的统一知识门户，沉淀组织知识，鼓励员工知识分享，协助企业构建学习型组织，提升组织智力。
+
 .. sectnum::
    :depth: 1
 
-.. image:: /images/consultant.gif
+.. image:: img/consultant.gif
    :class: image-left image-noborder
 
 企业需要知识管理
@@ -30,7 +32,7 @@ title: 企业知识管理门户
 - 识别雇员的知识价值，给以相应报酬，从而提高雇员留职率；
 - 减少多余或不必要环节，让流程自动化，精简操作，降低成本；
 
-.. image:: /images/support.gif
+.. image:: img/support.gif
    :class: image-left image-noborder
 
 企业知识管理的困境
@@ -59,7 +61,7 @@ title: 企业知识管理门户
 领导难管理
   企业需要相关信息系统来简化知识管理工作；同时，通过知识管理的一些统计数据，对员工进行评估考核，激励员工贡献，构建鼓励知识贡献的文化氛围。
 
-.. image:: /images/application.gif
+.. image:: img/application.gif
    :class: image-left image-noborder
 
 润普企业知识门户
@@ -80,7 +82,7 @@ title: 企业知识管理门户
 - 知识用户：从系统中获取知识，如查找、订阅、阅读等
 - 系统管理员：系统级别的管理工作
 
-.. image:: /images/outsourcing.gif
+.. image:: img/outsourcing.gif
    :class: image-left image-noborder
 
 各种知识管理工具和方法
