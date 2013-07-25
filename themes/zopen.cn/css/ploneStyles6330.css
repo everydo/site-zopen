@@ -130,6 +130,7 @@ ul span{
     text-align:right;
     color:#76797c;
     font-size:90%;
+    margin-bottom:0;
 }
 
 ol {
@@ -2138,6 +2139,10 @@ dd.portletItem a,
 dd.portletFooter a {
     border-bottom: none;
 }
+dd.portletItem ul.nav a {
+    padding-left:10px;
+}
+ul.nav{ margin-left:-1em;}
 dd.portletItem a:visited,
 dd.portletFooter a:visited {
     color: #436976;
@@ -2222,13 +2227,6 @@ dd.portletItem .navTreeItem a {
     text-decoration: none;
     padding-top: 0.2em;
     padding-bottom: 0.25em;
-}
-
-.navTreeItem a:hover,
-dd.portletItem .navTreeItem a:hover {
-    background-color: #C3D5DF;
-    color: #436976;
-    border: 1px solid #8cacbb;
 }
 
 .navTreeCurrentItem {

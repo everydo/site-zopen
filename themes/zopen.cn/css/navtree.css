@@ -78,10 +78,11 @@ li.navTreeItem div.contenttype-folder a img {
 }
 
 .navTreeItem a:hover,
-dd.portletItem .navTreeItem a:hover {
+dd.portletItem .nav li:hover {
 background-color: #EDF3FE;
 color: #436976;
 border: 1px solid #B9D0FB;
+margin-bottom:4px;
 }
 
 .navTreeItem a, dd.portletItem .navTreeItem a {
@@ -92,7 +93,16 @@ padding-top:0.2em;
 text-decoration:none;
 }
 /* navtree */
-li.selected div a.navTreeCurrentItem {
+
+dd.portletItem li{
+color:#333333;
+padding-bottom:0.25em;
+padding-top:0.2em;
+height:auto;
+}
+
+dd.portletItem li.active {
+border:1px;
 background-color:#EDF3FE;
 border:1px solid #CCCCCC !important;
 color:#436976;

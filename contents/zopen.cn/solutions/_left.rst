@@ -15,7 +15,6 @@
 
 .. navtree::
    :root_depth: 1
-   :class: portletNavigationTree navTreeLevel0 navTreeItem visualNoMarker node notloaded collapsed
 
 .. raw:: html
 
