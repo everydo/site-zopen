@@ -3,7 +3,5 @@ exclude: [col_customs.rst, col_links.rst, col_news.rst, '*.html', include.rst, i
   login_form, '*.gif', system, sitemap, cert, services, tour, pricing, contact-info,
   ceshiqu, images]
 order: [index.rst, yidu, solutions, products, training, cases, technology, company]
-theme: index.html
-theme_base: http://localhost:6543/themes/zopen.cn/
-theme_default: index.html
+theme_base: http://download.zopen.cn/themes/zopen.cn/
 title: 上海润普网络信息技术有限公司
