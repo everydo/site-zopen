@@ -1,0 +1,16 @@
+.. raw:: html
+   
+   <p>This version supports <a href="http://www.zope.org/Members/anahide/News_Item.2005-06-16.4640">CPSWorkflow</a>, a extension to DCWorkflow.</p>
+        <p>Thanks Encolpe Degoute and Anahide Tchertchian for their contribution.</p>
+        <p><a href="http://www.zope.org/Members/panjunyong/DCWorkflowGraph/dcworkflowgraph-0_3/dcworkflowgraph-0_3.tgz">download</a>
+        | 
+        <a href="http://www.zope.org/Members/panjunyong/DCWorkflowGraph">English product home</a>
+        | 
+        <a href="http://www.zopechina.com/products/DCWorkflowGraph">Chinese product home</a></p>
+        <p>ChangeLog:</p>
+
+        <ul>
+        <li>take transitions without initial state into account</li>
+        <li>deal with remain in state transitions</li>
+        <li>use transition title instead of action box name</li>
+        </ul>

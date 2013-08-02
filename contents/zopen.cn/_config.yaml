@@ -4,5 +4,5 @@ exclude: [col_customs.rst, col_links.rst, col_news.rst, '*.html', include.rst, i
   ceshiqu, images]
 order: [index.rst, yidu, solutions, products, training, cases, technology, company]
 theme: index.html
-theme_base: http://download.zopen.cn/themes/zopen.cn/
+theme_base: /themes/zopen.cn
 title: 上海润普网络信息技术有限公司

@@ -1,0 +1,4 @@
+description: Files are stored in filesystem directly ...
+exclude: [img, index.rst]
+order: []
+title: ZOpen File Repository System (FRS)

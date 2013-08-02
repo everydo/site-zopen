@@ -1,0 +1,8 @@
+Zope_ and Plone_ is our core technology.
+
+We believe that opensource can give much success to the client. We use other opensource systems like Linux, Apache, Squid, PostgreSql, Subversion and so on.
+
+Also, we don't refuse commercial systems. We support Windows platform. We try to integrate with customers' existing platform.
+
+.. _Zope: http://zope.org
+.. _Plone: http://plone.org

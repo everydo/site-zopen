@@ -1,0 +1,36 @@
+.. raw:: html
+   
+   <p>Links:</p>
+	<ul class="simple">
+	<li><a class="reference" href="http://download.zopechina.com/contentpanels-1_8_3.tgz">Download</a></li>
+	<li><a class="reference" href="http://www.zopechina.com/products-en/CMFContentPanels">Product home</a></li>
+	</ul>
+	<p>New features includes:</p>
+	<ul>
+	<li><p class="first">add new global varible to viewlet: contentpanels, where the panel belongs.</p>
+	</li>
+	<li><p class="first">now in ZMI contentpanels has a properties tab</p>
+	</li>
+	<li><p class="first">portal_contentpanels have a 'install All Viewlets' tab to install registered viewlets. you can register viewlets using:</p>
+	<pre class="literal-block">
+	from Products.CMFContentPanels import registerViewlets
+	registerViewlets( you_viewlets )
+	</pre>
+	</li>
+	<li><p class="first">the popup panel configuration window is much better now</p>
+	</li>
+	<li><p class="first">recent changes don't show the folder</p>
+	</li>
+	<li><p class="first">added more viewlets, eg, recent comments viewlet</p>
+	</li>
+	<li><p class="first">fixed a bug with context's relative path</p>
+	</li>
+	<li><p class="first">refine layout form</p>
+	</li>
+	<li><p class="first">fixed a bug which will cause deletion fail</p>
+	</li>
+	<li><p class="first">folder listing viewlets now show all contents</p>
+	</li>
+	<li><p class="first">updated french po, thanks  Nicolas Laurance</p>
+	</li>
+	</ul>

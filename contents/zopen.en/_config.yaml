@@ -1,0 +1,9 @@
+description: ''
+exclude: [col_customs.rst, col_links.rst, col_news.rst, '*.html', include.rst, indexcol.rst,
+  login_form, '*.gif', system, img, MESSAGE, yidu, index_html-en, sitemap, site-map,
+  cert, ceshiqu, services-en, tour-en, pricing, yidu, contact-info, images]
+order: [index.rst, products-en, solutions-en, training-en, cases-en, technology-en,
+  company-en]
+theme: index.html
+theme_base: /themes/zopen.en
+title: 易度

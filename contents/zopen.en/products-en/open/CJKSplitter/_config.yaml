@@ -1,0 +1,8 @@
+description: "CJKSplitter is a ZCTextIndex splitter for CJK (Chinese-Japenese-Korea)\
+  \ text\r\n  stored as Unicode.  It uses a simple, but workable, \"hack\" instead\
+  \ of trying\r\n  to do real word splitting from dictionaries.  Compared to a dictionary\
+  \ based\r\n  word splitter, this results in a bigger index and more matches than\
+  \ necessary,\r\n  but it is a cheap price to pay for the reduced complexity.\r\n"
+exclude: [img, index.rst]
+order: []
+title: CJKSplitter

@@ -1,0 +1,4 @@
+description: Company infomation
+exclude: [img, indexcol.rst, index.rst]
+order: []
+title: Company

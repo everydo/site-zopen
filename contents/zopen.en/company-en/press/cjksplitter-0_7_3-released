@@ -1,0 +1,17 @@
+.. raw:: html
+
+   <p>This is a bugfix release.</p>
+	<p><a href="http://www.zope.org/Members/panjunyong/CJKSplitter/cjkspliter-0_7/cjksplitter-0_7_3.tgz">download</a>
+	| 
+	<a href="http://www.zope.org/Members/panjunyong/CJKSplitter">English product home</a>
+	| 
+	<a href="http://www.zopechina.com/products/CJKSplitter">Chinese product home</a></p>
+	<p>ChangeLog</p>
+
+	<ul>
+	<li>fixed a bug which may cause multi-Chinese Character search fail.</li>
+	<li>fixed a bug, which may cause Chinese/English combined search fail.</li>
+	<li>fixed serious bug which may double index, and add more tests</li>
+	<li>make it compatible with new version of zope, it seems single Chinese character doesn't work with Zope 2.7.3</li>
+	<li>better support single Chinese charactor search.</li>
+	</ul>

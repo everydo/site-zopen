@@ -1,0 +1,5 @@
+description: (GPL) ATRatings is a tool for storing user ratings and hits on objects
+  for Archetypes based content.
+exclude: [img, atratings-en.PNG, atratings-en.png, index.rst]
+order: []
+title: ATRatings
