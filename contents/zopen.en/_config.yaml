@@ -5,5 +5,5 @@ exclude: [col_customs.rst, col_links.rst, col_news.rst, '*.html', include.rst, i
 order: [index.rst, products-en, solutions-en, training-en, cases-en, technology-en,
   company-en]
 theme: index.html
-theme_base: /themes/zopen.en
+theme_base: http://download.zopen.cn/themes/zopen.en
 title: 易度
